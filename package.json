@@ -1,0 +1,28 @@
+{
+  "name": "mongo_schema",
+  "version": "1.0.0",
+  "description": "mongo schema practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rarrunategu1/mongo_schema_exercise.git"
+  },
+  "author": "Rose Parker for CareerDevs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rarrunategu1/mongo_schema_exercise/issues"
+  },
+  "homepage": "https://github.com/rarrunategu1/mongo_schema_exercise#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
